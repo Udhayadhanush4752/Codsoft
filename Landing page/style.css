@@ -1,0 +1,54 @@
+nav{
+    background-color: aquamarine;
+    color: deeppink;
+    
+    padding: 15px;
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+li{
+    color: dimgrey;
+    cursor: pointer;
+}
+li:hover{
+    color: deeppink;
+}
+input{
+    width: 60%;
+    padding: 15px;
+   
+}
+.searchbar{
+padding: 50px;
+text-align: center;
+}
+.box{
+    background-color: white;
+    margin: 3px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    height: 350px;
+}
+.product{
+    text-align: center;
+}
+.box:hover{
+    color: deeppink;
+}
+
+.about{
+    text-align: center;
+    margin-top: 20px;
+}
+.contact{
+    background-color: aquamarine;
+    color: dimgrey;
+    cursor: pointer;
+}
